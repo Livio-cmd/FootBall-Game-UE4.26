@@ -1,0 +1,7 @@
+22-12-2020 :
+
+livio -> - Systeme camera (libre en l'air / avec vinterp sur le sol)
+	 - Modélisation d'un personnage prototype (Slapshot: Rebound)
+
+Helios -> - Modelisation terrain
+	  - Animation du BUT -> (Ralenti / Particule / Explosion de la balle...)
