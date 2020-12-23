@@ -17,6 +17,6 @@ Livio -> - Shade smooth sur le personnage ✔
 	 - Changement sky sphere + environement + lightning ✔
 
 
-Helios -> - Mise en place des étoiles
-	  - Mouvement de camera sur axe y
-	  - Changement environement (stade -> vitre + transparent + but éxtérieur)
+Helios -> - Mise en place des étoiles ✔
+	  - Mouvement de camera sur axe y ✖ -> bug
+	  - Changement environement (stade -> vitre + transparent + but éxtérieur) ✖
