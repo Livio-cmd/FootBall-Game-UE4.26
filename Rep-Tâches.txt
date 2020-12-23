@@ -2,6 +2,21 @@
 
 livio -> - System impulsion de la balle ✔
 	 - Modélisation d'un personnage prototype (Slapshot: Rebound)✔
+	 - Amélioration de l'UHD + modif Environement + light ✔
+	 - Shade Smooth sur le personnage ✖
 
 Helios -> - Modelisation terrain ✔
-	  - Animation du BUT -> (Ralenti / Particule / Explosion de la balle...)
+	  - Animation du BUT -> (Ralenti / Particule / Explosion de la balle...)✔
+	  - System de la camera + vue sur le ballon ✔
+
+--------------------------------------------------------------------------------------------------------------------
+
+23-12-2020:
+
+Livio -> - Shade smooth sur le personnage ✔
+	 - Changement sky sphere + environement + lightning ✔
+
+
+Helios -> - Mise en place des étoiles
+	  - Mouvement de camera sur axe y
+	  - Changement environement (stade -> vitre + transparent + but éxtérieur)
