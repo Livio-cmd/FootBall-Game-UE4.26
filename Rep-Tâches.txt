@@ -28,5 +28,7 @@ Livio -> Reconféction d'un personnage 3D (Blender) ✔
       -> Changement de system camera ✔
       -> Changement position HUD (score des teams)
 
-Helios -> Remplacer le Stade de Foot + texturing
-       -> Améliorer les light -> Lumières ambiantes
+Helios -> Remplacer le Stade de Foot + texturing ✖
+       -> Améliorer les light -> Lumières ambiantes ✔
+       -> Animations Personnage ✔
+       -> Changer le material en fonction de la team ✔
