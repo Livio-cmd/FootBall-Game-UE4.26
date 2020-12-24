@@ -9,7 +9,7 @@ Helios -> - Modelisation terrain ✔
 	  - Animation du BUT -> (Ralenti / Particule / Explosion de la balle...)✔
 	  - System de la camera + vue sur le ballon ✔
 
---------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------||
 
 23-12-2020:
 
@@ -21,14 +21,19 @@ Livio -> - Shade smooth sur le personnage ✔
 Helios -> - Mise en place des étoiles ✔
 	  - Mouvement de camera sur axe y ✖ -> bug
 	  - Changement environement (stade -> vitre + transparent + but éxtérieur) ✔
+--------------------------------------------------------------------------------------------------------------------||
 
 24-12-2020; (Noel)
 
 Livio -> Reconféction d'un personnage 3D (Blender) ✔
       -> Changement de system camera ✔
-      -> Changement position HUD (score des teams)
+      -> Changement position HUD (score des teams) ✔
+      -> Creation des points (modélisation + placement sur le terrain) ✔
+      -> Systeme d'impulsion au moment du but ✖
 
 Helios -> Remplacer le Stade de Foot + texturing ✖
        -> Améliorer les light -> Lumières ambiantes ✔
        -> Animations Personnage ✔
        -> Changer le material en fonction de la team ✔
+
+---------------------------------------------------------------------------------------------------------------------||
