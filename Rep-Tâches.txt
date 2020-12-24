@@ -15,8 +15,18 @@ Helios -> - Modelisation terrain ✔
 
 Livio -> - Shade smooth sur le personnage ✔
 	 - Changement sky sphere + environement + lightning ✔
+	 - Reconféction du stade
 
 
 Helios -> - Mise en place des étoiles ✔
 	  - Mouvement de camera sur axe y ✖ -> bug
-	  - Changement environement (stade -> vitre + transparent + but éxtérieur) ✖
+	  - Changement environement (stade -> vitre + transparent + but éxtérieur) ✔
+
+24-12-2020; (Noel)
+
+Livio -> Reconféction d'un personnage 3D (Blender) ✔
+      -> Changement de system camera ✔
+      -> Changement position HUD (score des teams)
+
+Helios -> Remplacer le Stade de Foot + texturing
+       -> Améliorer les light -> Lumières ambiantes
