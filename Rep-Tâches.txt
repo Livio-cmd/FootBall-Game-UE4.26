@@ -42,4 +42,6 @@ Helios -> Remplacer le Stade de Foot + texturing ✖
 Livio -> Systeme des point v. prototype (aucun effet en jeu) + (apparition et disparition des pionts) ✔
       -> Utilisation de l'ultimate (Simplement afficher un message) ✔
 
-Helios -> ...
+Helios -> Amél Widget
+       -> réparation bug (points d'ultime et but)
+
