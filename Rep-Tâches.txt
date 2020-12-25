@@ -37,3 +37,9 @@ Helios -> Remplacer le Stade de Foot + texturing ✖
        -> Changer le material en fonction de la team ✔
 
 ---------------------------------------------------------------------------------------------------------------------||
+25-12-2020: (Noel)
+
+Livio -> Systeme des point v. prototype (aucun effet en jeu) + (apparition et disparition des pionts) ✔
+      -> Utilisation de l'ultimate (Simplement afficher un message) ✔
+
+Helios -> ...
